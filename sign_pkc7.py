@@ -5,9 +5,6 @@ from os.path import isfile
 import traceback
 import sys
 
-from cryptography.hazmat import backends
-from cryptography.hazmat.primitives.serialization import pkcs12
-
 def create_args():
     """Creates CLI arguments for the script."""
 
