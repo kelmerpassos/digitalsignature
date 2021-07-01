@@ -1,0 +1,5 @@
+*.pfx
+*.json
+*.pdf
+*.json.p7s
+venv
